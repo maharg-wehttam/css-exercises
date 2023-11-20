@@ -1,0 +1,21 @@
+.first, 
+.third, 
+.fifth {
+    background-color: rgb(253, 148, 129);
+    font-family:Verdana, DejaVu Sans, sans-serif;
+}
+
+#second {
+    color: rgb(0,0,255);
+    font-size:36px;
+}
+
+.third {
+    font-size:24px;
+}
+
+#fourth {
+    font-size:24px;
+    font-weight: bold;
+    background-color: rgb(87, 240, 87);
+}
